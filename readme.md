@@ -34,7 +34,7 @@ Statistics regarding entities, relations and triples for each split can be found
 
 ## Bias analysis
 
-In the thesis, seven bias patterns are defined concerning test leakage and sample selection bias.
+In this work, seven bias patterns are defined concerning test leakage and sample selection bias.
 
 Test leakage patterns:
 
